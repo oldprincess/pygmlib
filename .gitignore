@@ -1,0 +1,8 @@
+.vscode/
+.vs/
+build/
+pygmlib.*/
+cmake*/
+dist/
+__pycache__
+script.txt
